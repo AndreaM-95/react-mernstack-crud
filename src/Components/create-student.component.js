@@ -65,7 +65,7 @@ export default class CreateStudent extends Component{
                         />
                     </Form.Group>
 
-                    <Form.Group controlId="Document">
+                    <Form.Group controlId="Documento">
                         <Form.Label>Documento</Form.Label>
                         <Form.Control 
                             type="text"

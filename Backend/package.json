@@ -4,7 +4,8 @@
   "description": "Base para los registros del proyecto de la UTP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: No test specified\" && exit 1"
+    "test": "echo \"Error: No test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "author": "Andrea Mejia",
   "license": "ISC",
