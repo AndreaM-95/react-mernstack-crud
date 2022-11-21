@@ -22,7 +22,7 @@ export default class CreateStudent extends Component{
         this.setState({name:e.taget.value});//traerá el valor del elemento que haya cambiado
     }
     onChangeStudentEmail(e){
-        this.setState({emai:e.taget.value});//traerá el valor del elemento que haya cambiado
+        this.setState({email:e.taget.value});//traerá el valor del elemento que haya cambiado
     }
     onChangeStudentRollNo(e){
         this.setState({rollno:e.taget.value});//traerá el valor del elemento que haya cambiado
